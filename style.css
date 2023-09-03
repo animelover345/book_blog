@@ -1,0 +1,47 @@
+#ribbon{
+    background-color: black;
+}
+#home_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+h3{
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+body{
+    background: linear-gradient(#F9F1F1 0%, #E1E5F2 25%, #DEE8F7 50%, #DBEBFB 75%, #C4E9DE 100%);
+}
+.copy-right-footer{
+    text-align: center;
+    margin-top: 300px;
+    background-color: white;
+    color: black;
+    text-shadow: 8px 10px 5px black;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    font-size: 15px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#contact_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#review_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#about_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}

@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);;
+}
+.copy-right-footer{
+    text-align: center;
+    margin-top: 600px;
+    background-color: white;
+    color: black;
+    text-shadow: 8px 10px 5px black;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    font-size: 15px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#ribbon{
+    background-color: black;
+}
+#name{
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#home_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#about_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#review_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#contact_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 5px 5px 10px black;
+}

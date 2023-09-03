@@ -1,0 +1,43 @@
+#ribbon{
+    background-color: black;
+}
+#name{
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#h1{
+    font-weight: bold;
+    font: 'Dancing Script', cursive;
+    color: #d8cdc5;
+    text-align: center;
+    line-height: 40px;
+    text-shadow: 15px 5px 10px #a38875;
+}
+p{
+    font-size: 24px;
+    font-family: 'Foldit', cursive;
+    color: #d8cdc5;
+    text-align: center;
+}
+#backButton{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+body{
+    background: linear-gradient(#d8cdc5 0%, #6b5648 25%, #573e31 50%, #412615 75%, #26130b 100%);
+}
+.copy-right-footer{
+    text-align: center;
+    margin-top: 100px;
+    background-color: white;
+    color: black;
+    text-shadow: 8px 10px 5px black;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    font-size: 15px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}

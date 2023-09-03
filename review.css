@@ -1,0 +1,188 @@
+#ribbon{
+    background-color: black;
+}
+#name{
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#home_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#about_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#review_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#contact_button{
+    background-color: darkkhaki;
+    color: aliceblue;
+    margin-right: 10px;
+    width: 90px;
+}
+#ember{
+    background-color: #A86138;
+    margin-top: 5px;
+    text-shadow: 5px, 5px, 5px, red;
+    color: #6B3E24;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img2{
+    width: 300px;
+    margin-left: 80px;
+}
+#endsWithUs{
+    margin-left: 120px;
+    color: #78565B;
+    background-color: #AF8B8E;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img3{
+    width: 240px;
+    margin-left: 50px;
+}
+#heartstopper{
+    margin-left: 210px;
+    background-color: #D3B8DB;
+    color: #5A3366;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img4{
+    width: 180px;
+    margin-left: 80px;
+}
+#img1{
+    margin-left: 30px;
+}
+#boysDontCry{
+    margin-left: 190px;
+    background-color: #ED7368;
+    color: #891A10;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#inheritanceGames{
+    background-color: #61896D;
+    color: #232E20;
+    margin-left: 120px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img5{
+    margin-left: 50px;
+    width: 185px;
+}
+#hawthorneLegacy{
+    background-color: #697490;
+    color: #2b2f3b;
+    margin-left: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img6{
+    margin-left: 30px;
+}
+#img7{
+    margin-left: 90px;
+}
+#oneOfUs{
+    margin-left: 145px;
+    background-color: #c67c7a;
+    color: #7d3836;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img8{
+    width: 180px;
+    margin-left: 90px;
+}
+#goodGirls{
+    margin-left: 115px;
+    background-color: #a1c9d8;
+    color: #3c7a90;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img9{
+    width: 175px;
+    margin-left: 90px;
+}
+#badBlood{
+    margin-left: 100px;
+    color: #721619;
+    background-color: #da3e43;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img10{
+    width: 180px;
+    margin-left: 90px;
+}
+#goodAsDead{
+    margin-left: 145px;
+    color: #11333c;
+    background-color: #3297b3;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img11{
+    width: 190px;
+    margin-left: 340px;
+    margin-top: 15px;
+}
+#loveHypothesis{
+    margin-left: 375px;
+    background-color: #d5b0a9;
+    margin-top: 5px;
+    color: #894f43;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img12{
+    width: 160px;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+#atlasSix{
+    margin-left: 190px;
+    background-color: #d1a15e;
+    color: #775422;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#img13{
+    margin-left: 100px;
+    width: 155px;
+    margin-top: 15px;
+}
+#redWhiteBlue{
+    margin-left: 135px;
+    color: #017cb3;
+    background-color: #67cefe;
+    font-family: 'Dancing Script', cursive;
+}
+.copy-right-footer{
+    text-align: center;
+    margin-top: 300px;
+    background-color: lightpink;
+    color: black;
+    text-shadow: 8px 10px 5px black;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    font-size: 15px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
